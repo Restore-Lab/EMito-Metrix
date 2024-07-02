@@ -5,3 +5,5 @@ EMito-Metrix is a high-performance pipeline for analyzing mitochondrial morpholo
 EMito-Metrix plugin was written by Mathieu Vigneau, Emmanuel Doumard and Jean-Philippe Pradère from the RESTORE Institute.
 
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
+
+See the Tutorial_EMitoMetrix.docx file for installation instructions and detailed documentation of the plugin
